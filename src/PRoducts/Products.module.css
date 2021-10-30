@@ -21,3 +21,13 @@
     }
 
   }
+@media only screen and (max-width: 200px) {
+    .product {
+      background-color:none;
+      width: 100%;
+      display: inline;
+      margin-bottom:5rem;
+
+    }
+
+  }

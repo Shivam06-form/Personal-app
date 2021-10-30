@@ -23,6 +23,14 @@
 text-decoration: none;
 color: black;
 }
+@media only screen and (max-width: 200px) {
+    .scroll {
+      background-color: lightblue;
+      width: 100%;
+      margin: 0;
+    }
+
+  }
 
 @media only screen and (max-width: 600px) {
     .scroll {
