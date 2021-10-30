@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Personal-app/static/css/main.099ef543.chunk.css",
+    "main.js": "/Personal-app/static/js/main.15dc753b.chunk.js",
+    "main.js.map": "/Personal-app/static/js/main.15dc753b.chunk.js.map",
+    "runtime-main.js": "/Personal-app/static/js/runtime-main.12e05040.js",
+    "runtime-main.js.map": "/Personal-app/static/js/runtime-main.12e05040.js.map",
+    "static/css/2.a2bc7d03.chunk.css": "/Personal-app/static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.fbab85f4.chunk.js": "/Personal-app/static/js/2.fbab85f4.chunk.js",
+    "static/js/2.fbab85f4.chunk.js.map": "/Personal-app/static/js/2.fbab85f4.chunk.js.map",
+    "index.html": "/Personal-app/index.html",
+    "static/css/2.a2bc7d03.chunk.css.map": "/Personal-app/static/css/2.a2bc7d03.chunk.css.map",
+    "static/css/main.099ef543.chunk.css.map": "/Personal-app/static/css/main.099ef543.chunk.css.map",
+    "static/js/2.fbab85f4.chunk.js.LICENSE.txt": "/Personal-app/static/js/2.fbab85f4.chunk.js.LICENSE.txt",
+    "static/media/Cricket.c963ca9b.jpg": "/Personal-app/static/media/Cricket.c963ca9b.jpg",
+    "static/media/Green Lantern-06.73abf534.jpg": "/Personal-app/static/media/Green Lantern-06.73abf534.jpg",
+    "static/media/HawkMan-05.73d938f5.jpg": "/Personal-app/static/media/HawkMan-05.73d938f5.jpg",
+    "static/media/Shazam-01.0c434546.jpg": "/Personal-app/static/media/Shazam-01.0c434546.jpg",
+    "static/media/Superman-02.f33beec9.jpg": "/Personal-app/static/media/Superman-02.f33beec9.jpg",
+    "static/media/Taekwondo.9dba73ab.jpg": "/Personal-app/static/media/Taekwondo.9dba73ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e05040.js",
+    "static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.fbab85f4.chunk.js",
+    "static/css/main.099ef543.chunk.css",
+    "static/js/main.15dc753b.chunk.js"
+  ]
+}
