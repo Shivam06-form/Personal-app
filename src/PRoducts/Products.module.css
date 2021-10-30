@@ -8,13 +8,16 @@
     font-family:cursive;
     font:bolder;
     width: 25%;
+
 }
 
 @media only screen and (max-width: 600px) {
     .product {
-      background-color: lightblue;
+      background-color:none;
       width: 100%;
-      margin:10px;
+      display: inline;
+      margin-bottom:5rem;
+
     }
 
   }

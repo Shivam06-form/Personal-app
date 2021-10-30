@@ -1,14 +1,14 @@
 .slider{
     align-items: center;
     margin: 2rem auto;
-    margin-left: 20 auto;
+    margin-left: 20rem auto;
     margin-right:20rem auto;
     margin-bottom:20rem;
     align-items: center;
     padding: 5px;
     font-family:cursive;
     font:bolder;
-    max-width:65%
+    width:65%
 }
 
 
@@ -18,11 +18,8 @@
     .slider {
       background-color: lightblue;
       width: 100%;
-      margin: 10px;
-    margin-top:10rem;
-    margin-bottom:10rem;
-     margin-left: 0;
-    margin-right:0;
+      /* margin: 2rem auto; */
+
     }
 
   }

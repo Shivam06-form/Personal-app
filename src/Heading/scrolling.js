@@ -10,7 +10,7 @@ import { useMediaQuery } from 'react-responsive';
 
 const Scrolling = () => {
 
-  if ( useMediaQuery ({ query: '(max-width: 650px)' })) {
+  if ( useMediaQuery ({ query: '(max-width: 600px)' })) {
   return( 
   <Card className={classes.scroll}>
      <h1 style={{float:'left'}}> 
@@ -22,15 +22,15 @@ const Scrolling = () => {
   </Dropdown.Toggle>
 
   <Dropdown.Menu>
-    <Dropdown.Item >
+   
     <Button variant="primary"><a href="#sport"><FcSportsMode/> Sports</a></Button>
-    </Dropdown.Item>
-    <Dropdown.Item >
+ 
+
     <Button variant="success" ><a href ='#shows'><BiSlideshow/> Shows</a></Button>
-      </Dropdown.Item>
-    <Dropdown.Item >
+   
+
     <Button variant="warning" ><a href ="#social"><TiSocialGithubCircular/> SocialMedia</a></Button>
-   </Dropdown.Item>
+
   </Dropdown.Menu>
 </Dropdown>
 

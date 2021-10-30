@@ -1,5 +1,4 @@
 .scroll{
-    scroll-behavior: smooth;
     margin-bottom: 10rem;
     padding: 1rem;
     background-color:goldenrod;
@@ -25,11 +24,11 @@ text-decoration: none;
 color: black;
 }
 
-/* @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     .scroll {
       background-color: lightblue;
       width: 100%;
-  
+      margin: 0;
     }
 
-  } */
+  }

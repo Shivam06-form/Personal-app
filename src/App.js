@@ -36,10 +36,6 @@ function App() {
 <Route path='/social'>
   <SocialMedia/>
   </Route> */}
- 
- <Route>
-  <div>Not Found 404</div>
-</Route>
   </Route> 
  <Scrolling/>
   <Slider />
