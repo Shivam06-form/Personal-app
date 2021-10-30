@@ -1,0 +1,26 @@
+.scroll{
+    scroll-behavior: smooth;
+    padding: 1rem;
+    background-color:azure;
+    border-radius: 1rem;
+    color: black;
+    position: bottom;
+}
+
+.scroll Button {
+    margin: 10px ;
+}
+
+.scroll h4 {
+    margin: 10px ;
+}
+
+.scroll a :hover{
+    background-color: aquamarine;
+    border:2px solid transparent
+}
+
+.scroll a{
+text-decoration: none;
+color: black;
+}

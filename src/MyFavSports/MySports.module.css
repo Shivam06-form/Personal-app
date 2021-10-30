@@ -1,0 +1,23 @@
+.fav{
+    display: inline-block;
+    align-items: center;
+    margin:1rem ;
+    margin-top:10rem;
+    margin-bottom:10rem;
+    align-items: center;
+    padding: 2px;
+    font-family:cursive;
+    font:bolder;
+   background-color:ghostwhite
+}
+
+@media only screen and (max-width: 600px) {
+    .fav {
+      background-color: lightblue;
+      width: 100%;
+      margin: 10px;;
+    margin-top:12rem;
+    margin-bottom:1rem;
+    }
+
+  }

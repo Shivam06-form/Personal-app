@@ -1,0 +1,35 @@
+.scroll{
+    scroll-behavior: smooth;
+    margin-bottom: 10rem;
+    padding: 1rem;
+    background-color:goldenrod;
+    border-radius: 1rem;
+    color: black;
+}
+
+.scroll Button {
+    margin: 10px ;
+}
+
+.scroll h4 {
+    margin: 10px ;
+}
+
+.scroll a :hover{
+    background-color: aquamarine;
+    border:2px solid transparent
+}
+
+.scroll a{
+text-decoration: none;
+color: black;
+}
+
+/* @media only screen and (max-width: 600px) {
+    .scroll {
+      background-color: lightblue;
+      width: 100%;
+  
+    }
+
+  } */
