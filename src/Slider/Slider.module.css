@@ -23,12 +23,3 @@
     }
 
   }
-@media only screen and (max-width: 200px) {
-    .slider {
-      background-color: lightblue;
-      width: 100%;
-      /* margin: 2rem auto; */
-
-    }
-
-  }

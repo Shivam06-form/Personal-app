@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Personal-app/static/css/main.099ef543.chunk.css",
+    "main.css": "/Personal-app/static/css/main.c6e252fb.chunk.css",
     "main.js": "/Personal-app/static/js/main.15dc753b.chunk.js",
     "main.js.map": "/Personal-app/static/js/main.15dc753b.chunk.js.map",
     "runtime-main.js": "/Personal-app/static/js/runtime-main.12e05040.js",
@@ -10,7 +10,7 @@
     "static/js/2.fbab85f4.chunk.js.map": "/Personal-app/static/js/2.fbab85f4.chunk.js.map",
     "index.html": "/Personal-app/index.html",
     "static/css/2.a2bc7d03.chunk.css.map": "/Personal-app/static/css/2.a2bc7d03.chunk.css.map",
-    "static/css/main.099ef543.chunk.css.map": "/Personal-app/static/css/main.099ef543.chunk.css.map",
+    "static/css/main.c6e252fb.chunk.css.map": "/Personal-app/static/css/main.c6e252fb.chunk.css.map",
     "static/js/2.fbab85f4.chunk.js.LICENSE.txt": "/Personal-app/static/js/2.fbab85f4.chunk.js.LICENSE.txt",
     "static/media/Cricket.c963ca9b.jpg": "/Personal-app/static/media/Cricket.c963ca9b.jpg",
     "static/media/Green Lantern-06.73abf534.jpg": "/Personal-app/static/media/Green Lantern-06.73abf534.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.12e05040.js",
     "static/css/2.a2bc7d03.chunk.css",
     "static/js/2.fbab85f4.chunk.js",
-    "static/css/main.099ef543.chunk.css",
+    "static/css/main.c6e252fb.chunk.css",
     "static/js/main.15dc753b.chunk.js"
   ]
 }
